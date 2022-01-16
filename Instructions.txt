@@ -1,0 +1,11 @@
+Instructions
+
+Arrow keys - move camera UP, DOWN, LEFT, RIGHT
+W key - move camera FORWARD
+S key - move camera BACKWARDS
+A key - rotate camera to the left
+D key - rotate camera to the right
+Q key - tilt camera up
+E key - tilt camera down
+F key - start fly-through animation
+L key - lock scren
